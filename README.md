@@ -30,4 +30,5 @@ The scope of this system is to tackle with the problems that can arise in day to
 The system classifies facial expression of the same person into the basic emotions namely anger, disgust, fear, happiness, sadness and surprise. The main purpose of this system is efficient interaction between human beings and machines using eye gaze, facial expressions, cognitive modelling etc. Here, detection and classification of facial expressions can be used as a natural way for the interaction between man and machine. And the system intensity vary from person to person and also varies along with age, gender, size and shape of face, and further, even the expressions of the same person do not remain constant with time.
 
 ## SCREENSHOT
+![ss](https://user-images.githubusercontent.com/70318294/150641329-e25920a7-49c6-4adf-ae31-e54dd0459c3b.png)
 
